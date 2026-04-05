@@ -60,3 +60,8 @@ Contributions are welcome! If you want to improve or extend the simulation:
     Update the documentation accordingly.
 
     Open a pull request with a clear description of your changes.
+
+## 📜 License
+
+Distributed under the MIT License. See the LICENSE file for more information.
+Free to use, modify, and share for educational purposes.
